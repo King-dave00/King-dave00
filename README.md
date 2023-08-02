@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @King-dave00
-- 👀 I’m interested in ..web development.
+- 👀 I’m interested in ..web development. game development
 - 🌱 I’m currently learning .html,css and javascript..
 - 💞️ I’m looking to collaborate on .wed developers,game developers
 - ..
